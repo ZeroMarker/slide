@@ -8,13 +8,17 @@ footer: "By [Your Name] | [Date]"
 
 <!-- Title Slide -->
 # Operating Systems
+
 ## History, Technologies, GUI, & Distributions
+
 ### By: [Your Name]
+
 ### Date: [Insert Date]
 
 ---
 
 ## What is an Operating System?
+
 - **Definition**: Software that acts as an intermediary between users and hardware.
 - **Core Functions**:
   - Process, memory, and file management.
@@ -24,6 +28,7 @@ footer: "By [Your Name] | [Date]"
 ---
 
 ## Key Technologies in OS Development
+
 1. **Kernel Architectures**:
    - **Monolithic**: Single-process kernel (Linux, UNIX).
    - **Microkernel**: Minimalist (QNX, macOS’s Mach kernel).
@@ -35,23 +40,29 @@ footer: "By [Your Name] | [Date]"
 ---
 
 ## History of Operating Systems
+
 ### 1. **1940s-1950s**: No OS
+
 - Programs loaded manually via punch cards (e.g., ENIAC).
 - Single-task execution.
 
 ### 2. **1950s-1960s**: Batch Processing
+
 - **IBM OS/360**: Automated job sequencing.
 - Limited to one program at a time.
 
 ---
 
 ## History of OS (Cont.)
+
 ### 3. **1960s-1970s**: UNIX & Time-Sharing
+
 - **UNIX** (1969): Foundation for modern OS design.
 - **Multics**: Introduced time-sharing and multitasking.
 - **CP/M**: Early OS for microcomputers.
 
 ### 4. **1980s-1990s**: GUI Revolution
+
 - **Xerox Alto** (1973): First GUI with windows and mouse.
 - **Apple Macintosh** (1984): Consumer-friendly GUI.
 - **Windows 95**: Mainstream GUI for PCs.
@@ -59,7 +70,9 @@ footer: "By [Your Name] | [Date]"
 ---
 
 ## History of OS (Cont.)
+
 ### 5. **2000s-Present**: Mobile & Open Source
+
 - **Android/iOS**: Dominated mobile computing.
 - **Linux**: Open-source kernel powering servers and IoT.
 - **Cloud OS**: VMware, AWS, and containerization.
@@ -67,6 +80,7 @@ footer: "By [Your Name] | [Date]"
 ---
 
 ## GUI Development Milestones
+
 - **Xerox PARC**: Invented GUI concepts (windows, icons, mouse).
 - **Apple Lisa/Macintosh** (1983/1984): Commercialized GUI.
 - **Windows Evolution**: Windows 1.0 (1985) → Windows 11 (2021).
@@ -76,6 +90,7 @@ footer: "By [Your Name] | [Date]"
 ---
 
 ## Categories of Operating Systems
+
 1. **By Function**:
    - Batch, Time-Sharing, Real-Time (RTOS), Distributed, Embedded.
 2. **By Use Case**:
@@ -84,27 +99,34 @@ footer: "By [Your Name] | [Date]"
 ---
 
 ## Main Operating Systems Today
+
 ### 1. **Windows**
+
 - Dominates PCs (Windows 10/11).
 - Broad software/hardware compatibility.
 
 ### 2. **macOS**
+
 - UNIX-based OS for Apple devices.
 - Known for design tools (e.g., Final Cut Pro).
 
 ### 3. **Linux**
+
 - Open-source kernel with diverse distributions.
 
 ---
 
 ## Linux Distributions (Distros)
-### Popular General-Purpose Distros:
+
+### Popular General-Purpose Distros
+
 - **Ubuntu**: User-friendly for beginners.
 - **Fedora**: Cutting-edge features (Red Hat).
 - **Debian**: Stability-focused (basis for Ubuntu).
 - **Arch Linux**: DIY customization.
 
-### Specialized Distros:
+### Specialized Distros
+
 - **Kali Linux**: Penetration testing.
 - **CentOS/RHEL**: Enterprise servers.
 - **Puppy Linux**: Lightweight for old hardware.
@@ -112,6 +134,7 @@ footer: "By [Your Name] | [Date]"
 ---
 
 ## Modern OS Technologies
+
 1. **Cloud Integration**:
    - AWS, Azure, and Google Cloud tools.
 2. **AI/ML Support**:
@@ -124,6 +147,7 @@ footer: "By [Your Name] | [Date]"
 ---
 
 ## Conclusion
+
 - OS evolution: From punch cards to AI-driven ecosystems.
 - GUIs revolutionized accessibility for non-technical users.
 - Linux’s flexibility powers everything from smartphones to supercomputers.
@@ -132,5 +156,6 @@ footer: "By [Your Name] | [Date]"
 ---
 
 ## Questions? 🤔
+
 **Thank you!**  
 Ask about Linux vs. Windows, GUI frameworks, or kernel architectures!

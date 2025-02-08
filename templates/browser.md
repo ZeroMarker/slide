@@ -8,13 +8,17 @@ footer: "By Mark Chen | 2025-01-24"
 
 <!-- Title Slide -->
 # Web Browser Development
+
 ## Evolution, Architecture, and Modern Practices
+
 ### By: [Your Name]
+
 ### Date: [Insert Date]
 
 ---
 
 ## What is a Web Browser?
+
 - **Definition**: Software to access and render web content (HTML, CSS, JavaScript).
 - **Core Functions**:
   - Fetch resources (HTTP/HTTPS).
@@ -25,12 +29,15 @@ footer: "By Mark Chen | 2025-01-24"
 ---
 
 ## History of Web Browsers
+
 ### 1. **1990s: The Early Days**
+
 - **WorldWideWeb** (1990): First browser by Tim Berners-Lee.
 - **Mosaic** (1993): First graphical browser.
 - **Netscape Navigator** (1994): Dominated the "First Browser War."
 
 ### 2. **2000s: Modern Browsers Emerge**
+
 - **Internet Explorer** (1995-2000s): Monopolized the market.
 - **Firefox** (2004): Open-source alternative.
 - **Chrome** (2008): Introduced V8 engine and sandboxing.
@@ -38,13 +45,16 @@ footer: "By Mark Chen | 2025-01-24"
 ---
 
 ## Key Browser Components
+
 ### 1. **Rendering Engine**
+
 - **Blink**: Chrome, Edge, Opera.
 - **Gecko**: Firefox.
 - **WebKit**: Safari.
 - Converts HTML/CSS into pixels.
 
 ### 2. **JavaScript Engine**
+
 - **V8**: Chrome, Node.js.
 - **SpiderMonkey**: Firefox.
 - **JavaScriptCore**: Safari.
@@ -52,20 +62,25 @@ footer: "By Mark Chen | 2025-01-24"
 ---
 
 ## Key Components (Cont.)
+
 ### 3. **Networking Stack**
+
 - Handles HTTP/HTTPS, WebSocket, DNS.
 - Manages caching and cookies.
 
 ### 4. **Browser UI**
+
 - Address bar, tabs, bookmarks.
 - Extensions/APIs (e.g., Chrome Extensions).
 
 ### 5. **Security Sandbox**
+
 - Isolates tabs/processes to prevent exploits.
 
 ---
 
 ## Modern Browser Features
+
 1. **Performance**:
    - GPU acceleration, lazy loading.
    - WebAssembly for near-native speed.
@@ -79,6 +94,7 @@ footer: "By Mark Chen | 2025-01-24"
 ---
 
 ## Browser Development Tools
+
 1. **DevTools**:
    - Debugging, network analysis, performance profiling.
 2. **Standards**:
@@ -90,6 +106,7 @@ footer: "By Mark Chen | 2025-01-24"
 ---
 
 ## Popular Browsers Today
+
 1. **Chrome** (Blink/V8):
    - 65% market share; built on open-source Chromium.
 2. **Firefox** (Gecko/SpiderMonkey):
@@ -102,6 +119,7 @@ footer: "By Mark Chen | 2025-01-24"
 ---
 
 ## Future Trends
+
 1. **Web3 & Decentralization**:
    - Blockchain integration (e.g., Ethereum wallets in browsers).
 2. **AI/ML in Browsers**:
@@ -114,6 +132,7 @@ footer: "By Mark Chen | 2025-01-24"
 ---
 
 ## Challenges in Browser Dev
+
 1. **Cross-Browser Compatibility**:
    - "Works in Chrome" ≠ works everywhere.
 2. **Security Threats**:
@@ -124,6 +143,7 @@ footer: "By Mark Chen | 2025-01-24"
 ---
 
 ## Conclusion
+
 - Browsers evolved from simple HTML viewers to complex platforms.
 - Modern browsers prioritize speed, security, and user privacy.
 - Open standards and collaboration drive innovation (e.g., Chromium project).
@@ -131,5 +151,6 @@ footer: "By Mark Chen | 2025-01-24"
 ---
 
 ## Questions?
+
 **Thank you!**  
 Ask about PWAs, browser engines, or the future of WebAssembly!
