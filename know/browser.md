@@ -3,7 +3,7 @@ marp: true
 theme: default
 paginate: true
 header: "Web Browser Development: From Netscape to Modern Browsers"
-footer: "By Mark Chen | 2025-01-24"
+footer: "By Cheryl Chen | 2025-06-29"
 ---
 
 <!-- Title Slide -->

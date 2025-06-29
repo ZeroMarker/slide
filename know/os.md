@@ -69,8 +69,6 @@ footer: "By [Your Name] | [Date]"
 
 ---
 
-## History of OS (Cont.)
-
 ### 5. **2000s-Present**: Mobile & Open Source
 
 - **Android/iOS**: Dominated mobile computing.

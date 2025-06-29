@@ -27,11 +27,11 @@ size: A4D150
 
 ## 专业能力
 
-> 全栈开发工程师，拥有超过 8 年的丰富经验，擅长打造交互式和响应式的 Web 应用程序。在 StellarTech、QuantumSolutions 和 NovaWorks 等顶尖科技公司有实践经验。专注于设计引人入胜的用户界面并优化前端性能。
+> 全栈开发工程师，拥有超过 2 年的丰富经验，擅长打造交互式和响应式的 Web 应用程序。在 StellarTech、QuantumSolutions 和 NovaWorks 等顶尖科技公司有实践经验。专注于设计引人入胜的用户界面并优化前端性能。
 
-- **语言**：HTML，CSS，JavaScript，TypeScript
-- **框架/库**：React，Vue.js，SASS，LESS，Bootstrap，Material-UI
-- **工具**：Git，npm，Shell
+- **语言**：JavaScript, Java, Python
+- **框架/库**：React，Vue.js
+- **工具**：Git，Linux, Docker
 - **其他**：
   - 出色的问题解决和分析能力。
   - 优秀的团队合作精神，积极主动学习和成长。
@@ -47,7 +47,7 @@ size: A4D150
 
 - **职责**：领导前端开发团队构建创新 Web 应用程序；实施尖端的 UI/UX 设计以增强用户体验；与设计师和后端工程师密切合作，交付无缝解决方案。
 
-#### 在线商城 App 开发 · 前端负责人
+#### 医院信息系统 · 后端接口开发
 
 - 开发一款跨平台在线商城应用，支持 iOS 和 Android 平台。
 - 实现用户身份验证、购物车管理和订单跟踪功能。
@@ -83,7 +83,7 @@ size: A4D150
 
 ### [Spring React][Spring] 在线影视网站
 
-[Spring]: <https://github.com/DBAdminX/spring>
+[Spring]: <https://github.com/DBAdminX/movie>
 
 - **职责**：领导前端开发团队构建创新 Web 应用程序；实施尖端的 UI/UX 设计以增强用户体验；与设计师和后端工程师密切合作，交付无缝解决方案。
 
