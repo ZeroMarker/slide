@@ -11,8 +11,8 @@ size: A4D150
 |                              |                                          |
 | ---------------------------- | ---------------------------------------- |
 | **电话**：(+86) 151 9717 5562     | **邮箱**：<mark.chen.im@gmail.com>         |
-| **微信**：CoolOrca / 电话 | **博客**：[cnblogs.com/amhara][blog]      |
-| **现居**：泰安 山东              | **GitHub**: [github.com/DBAdminX][github] |
+| **微信**：CoolOrca | **博客**：[cnblogs.com/amhara][blog]      |
+| **现居**：山东泰安              | **GitHub**: [github.com/DBAdminX][github] |
 
 [blog]: <https://www.cnblogs.com/amhara>
 [github]: <https://github.com/DBAdminX>
@@ -23,16 +23,16 @@ size: A4D150
 
 [XTU]: <https://www.xtu.edu.cn/>
 
-*2019.09~2023.06*
+*2019.09-2023.06*
 
 ## 专业能力
 
 > 全栈开发工程师，拥有超过 2 年的丰富经验，擅长打造交互式和响应式的 Web 应用程序。在医疗健康软件行业有丰富的实践经验。专注于设计易于交互的用户界面并持续优化系统性能。
 
 - **语言**：JavaScript, Java, Python
-- **框架/库**：React，Vue.js, Spring Boot
-- **数据库**: MySQL, MongoDB
-- **工具**：Git，Linux, Docker
+- **框架/库**：React, Vue.js, Spring Boot
+- **数据库**: PostgreSQL, MySQL, MongoDB
+- **工具**：Git, Linux, Docker
 - **其他**：
   - 出色的问题解决和分析能力。
   - 优秀的团队合作精神，积极主动学习和成长。
@@ -44,13 +44,13 @@ size: A4D150
 
 [com]: <https://www.dhcc.com.cn/>
 
-*2023.07~present*
+*2023.07-present*
 
 - **职责**：负责医院信息系统（HIS）核心模块全栈开发，完成需求分析、系统设计、编码及部署；开发高并发业务接口，优化数据库查询逻辑提升响应效率提升；实现系统集成接口；严格遵守等保三级要求，保障医疗数据安全与患者隐私。
 
 #### 医院信息系统开发
 
-- 负责医院信息系统（HIS）核心模块（门诊、住院、电子病历）的全栈开发，使用 Vue.js + Spring Boot + MySQL 技术栈，独立完成从需求分析、设计、编码到测试部署的全流程。
+- 负责医院信息系统（HIS）核心模块（门诊、住院、电子病历）的全栈开发，使用 Vue.js + Spring Boot + PostgreSQL 技术栈，独立完成从需求分析、设计、编码到测试部署的全流程。
 
 - 设计并实现高效、安全的RESTful API接口，支撑前端复杂医疗业务流程（如医嘱开立、病历书写、报告查看）。
 
