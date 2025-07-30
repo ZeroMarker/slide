@@ -4,127 +4,95 @@ theme: resume
 size: A4D150
 ---
 
-# Hongliang Chen
+# John Doe
 
-*(Full Stack Developer)*  
+*(Frontend Engineer)*
 
-|                              |                                          |
-| ---------------------------- | ---------------------------------------- |
-| **Phone**: (+1) 971 453 3598 | **Email**: <mark.chen.im@gmail.com>      |
-| **Linkedin**: CoolOrca         | **Blog**: [cnblogs.com/amhara][blog]     |
-| **Location**: Tai'an, Shandong | **GitHub**: [github.com/DBAdminX][github] |
+|                                     |                                          |
+| ----------------------------------- | ---------------------------------------- |
+| **Phone**: (123) 456-7890           | **Location**: Chaozhou, China            |
+| **Email**: <john.doe@example.com>   | **Linkedin**: [John Doe][linkedin]       |
+| **Blog**: [blog.octobug.site][blog] | **GitHub**: [github.com/Octobug][github] |
 
-[blog]: https://www.cnblogs.com/amhara  
-[github]: https://github.com/DBAdminX  
+[blog]: <https://blog.octobug.site/>
+[github]: <https://github.com/Octobug>
+[linkedin]: <https://www.linkedin.com/in/john.doe/>
 
-## Education  
+## Professional Skills
 
-### [Xiangtan University][XTU] · School of Public Administration · Bachelor of Information Management and Information Systems
+> Senior Frontend Development Engineer with over 8 years of extensive experience, specializing in building interactive and responsive web applications. Practiced at top tech companies like StellarTech, QuantumSolutions, and NovaWorks. Focused on designing engaging user interfaces and optimizing frontend performance.
 
-[XTU]: https://www.xtu.edu.cn/  
-*2019.09 - 2023.06*  
+- **Languages**: HTML, CSS, JavaScript, TypeScript
+- **Frameworks/Libraries**: React, Angular, Vue.js, SASS, LESS, Bootstrap, Material-UI
+- **Tools**: Webpack, Git, npm, Jest, Enzyme, Mocha, Sinon, SVN
+- **Others**:
+  - Outstanding problem-solving and analytical skills.
+  - Excellent team player, proactive learner, and grower.
+  - Fluent in written and oral English.
 
-## Technical Skills
+## Work Experience
 
-> Full Stack Developer with 2+ years of experience specializing in building interactive and responsive web applications. Extensive practical experience in the healthcare software industry. Focused on designing user-friendly interfaces and continuously optimizing system performance.  
+### [StellarTech][stellar] (StellarTech Innovations Ltd.) Senior Frontend Development Engineer
 
-- **Languages**: JavaScript, Java, Python  
-- **Frameworks/Libraries**: React, Vue.js, Spring Boot  
-- **Databases**: PostgreSQL, MySQL, MongoDB  
-- **Tools**: Git, Linux, Docker  
-- **Others**:  
-  - Strong problem-solving and analytical skills  
-  - Excellent teamwork spirit with proactive learning attitude  
-  - Fluent in written and spoken English  
+[stellar]: <https://example.com/>
 
-## Work Experience  
+*2024.05~present*
 
-### [DHC Software Co., Ltd.][com] (DHC Medical Technology) · Full Stack Developer  
+- **Responsibilities**: Leading frontend development team to build innovative web applications; implementing cutting-edge UI/UX designs to enhance user experience; closely collaborating with designers and backend engineers to deliver seamless solutions.
 
-[com]: https://www.dhcc.com.cn/  
-*2023.07 - Present*  
+#### Online Shopping App Development · Frontend Lead
 
-- **Responsibilities**: Full-stack development of core modules for Hospital Information Systems (HIS), including requirements analysis, system design, coding, and deployment; developed high-concurrency APIs; optimized database queries to improve response efficiency; implemented system integration interfaces; ensured compliance with Level 3 of the Multi-Level Protection Scheme (MLPS) for medical data security and patient privacy.  
+- Developed a cross-platform online shopping application supporting iOS and Android platforms.
+- Implemented user authentication, shopping cart management, and order tracking features.
+- Integrated payment APIs for secure online payment functionality.
+- Optimized application performance to improve loading speed and user experience.
+- Used Firebase Realtime Database for real-time updates and push notification features.
 
-#### Hospital Information System Development  
+#### Health Tracking App Design · Frontend Lead
 
-- Led full-stack development of HIS core modules (Outpatient, Inpatient, EMR) using Vue.js + Spring Boot + PostgreSQL  
-- Designed secure RESTful APIs supporting medical workflows (medical orders, electronic records, report viewing)  
-- Optimized database queries, reducing response time by 30% during peak hours  
-- Developed HL7 interfaces for HIS-LIS/PACS integration ensuring real-time data transmission  
-- Implemented MLPS Level 3 compliance measures including data encryption and access controls  
+- Designed and developed a health tracking app for recording user health data and activities.
+- Implemented personalized health goal setting and real-time monitoring features for users.
+- Integrated third-party APIs for syncing and analyzing data with fitness devices.
+- Designed visual reports to help users understand health status and progress.
+- Supported social sharing features to encourage users to share health achievements and goals.
 
----  
+### `/* Taking a gap year */`
 
-## Project Experience  
+*2022.11~2024.03*
 
-### [Spring React][Spring] Online Movie Platform 
+### [QuantumSolutions][quantum] (Quantum Solutions Inc.) Frontend Development Engineer
 
-[Spring]: https://github.com/DBAdminX/moviedb  
+[quantum]: <https://quantum.solutions/>
 
-#### Project Description  
+*2019.08~2022.10*
 
-Full-featured streaming platform for movie browsing, search, and playback  
+- **Responsibilities**: Leading the UI development of complex enterprise software; integrating modern frontend technologies to enhance application performance; conducting code reviews and mentoring junior developers to maintain code quality.
 
-#### Contributions  
+#### Social Music Platform Development
 
-- Backend: Spring Boot RESTful APIs, database design, user authentication  
-- Frontend: React UI components, state management, API integration  
-- Performance optimization for seamless viewing experience  
+- Developed a social music platform for users to share music, create playlists, and engage with each other.
+- Implemented personalized recommendation algorithms to enhance user discovery of new music.
+- Integrated social media logins for easy account creation and music sharing.
+- Developed music streaming features supporting online playback and offline caching.
 
-#### Tech Stack  
+---
 
-Spring Boot, React, MongoDB  
+#### Smart Home Control System
 
-### [Docker DevOps][Docker] CI/CD Pipeline  
+- Designed and developed a smart home control system supporting remote control of appliances, lighting, and security devices.
+- Implemented voice recognition to allow users to control home devices through voice commands.
+- Integrated Internet of Things (IoT) technology for device interconnection and smart scene settings.
+- Designed scheduling and automation features to enhance the intelligence of home devices.
+- Supported multi-user management for family members to share and manage home control permissions.
 
-[Docker]: https://github.com/DBAdminX/moviedb  
+## Education
 
-#### Project Description  
+### [San Francisco Tech University][sftubscs] · Bachelor of Science in Computer Science
 
-Containerization solution for rapid application deployment across environments  
+[sftubscs]: <https://www.sftubscs.edu/>
 
-#### Contributions  
+*2015.09~2019.06*
 
-- Dockerized core applications with optimized Dockerfiles  
-- Reduced image sizes by 40% through optimization techniques  
-- Implemented Kubernetes orchestration cutting deployment time from 3hrs→10min  
-
-#### Tech Stack  
-
-Docker, Kubernetes, Docker Compose, Linux  
-
-### [YOLO][YOLO] Real-Time Object Detection  
-
-[YOLO]: https://github.com/DBAdminX/yolo  
-
-#### Project Description  
-
-Real-time object recognition system for security surveillance applications  
-
-#### Contributions  
-
-- Dataset curation/annotation and model training with PyTorch  
-- Optimized network parameters improving detection accuracy  
-- Achieved 10+ FPS with >90% accuracy using GPU acceleration  
-
-#### Tech Stack  
-
-YOLO, PyTorch, Python, C++  
-
-### [OpenCV][OpenCV] Hand Pose Recognition  
-
-[OpenCV]: https://github.com/DBAdminX/cv  
-
-#### Project Description  
-
-Computer vision system for hand gesture tracking and analysis  
-
-#### Contributions  
-
-- Developed hand keypoint detection algorithms using OpenCV  
-- Optimized processing pipelines for real-time performance  
-- Achieved >50% recognition accuracy in interactive scenarios  
-
-#### Tech Stack  
-C++, OpenCV, Python  
+- *2018.12* | Vue Advanced Developer Certification
+- *2017.12* | React Developer Certification
+- *2016.12* | Angular Advanced Certification
